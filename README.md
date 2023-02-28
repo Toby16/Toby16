@@ -8,10 +8,9 @@
 <p align="left"> <a href="https://twitter.com/3Below_" target="blank"><img src="https://img.shields.io/twitter/follow/3Below_?logo=twitter&style=for-the-badge" alt="Baasit" /></a> </p>
 
 - 💬 You can ask me about **Back-End Development**
-
 - 📫 How to reach me **bolajibaasit14@gmail.com**
-
 - ⚡ Fun fact **I'm a student of ALX Software Engineering Programme**
+- 🔩 I'm proficient in the implementation of **Data structures and Algorithms** with the C programming language
 
 ## ❤ Views and Followers.
 
