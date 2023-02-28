@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi, I'm Baasit Bolaji Ayomiposi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">A Determined and Hard-Working Software Engineer:computer: from Lagos, Nigeria.</h3>
+<h1 align="center">Hi, I'm Baasit Bolaji Ayomiposi:computer:</h1>
+<h3 align="center">A Determined and Hard-Working Software Engineer from Lagos, Nigeria.</h3>
 <img align= "right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Toby16&label=Profile%20views&color=0e75b6&style=flat" alt="Toby" /> </p>
