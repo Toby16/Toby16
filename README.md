@@ -17,7 +17,7 @@
 <a href="https://github.com/Toby16?tab=followers"><img src="https://img.shields.io/github/followers/Toby16?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 
-##  💻Tech Stack/Technologies
+##  💻Tech Stack/Technologies.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,7 +31,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-## Stats.
+##  📊Stats.⚖️
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby16&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Toby16&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Bolaji Baasit's github stats" /></p>
 
