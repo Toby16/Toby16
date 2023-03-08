@@ -8,6 +8,7 @@
 - 📫 How to reach me **bolajibaasit14@gmail.com**
 - ⚡ Fun fact **I'm a student of ALX Software Engineering Programme**
 - 🔩 I'm proficient in the implementation of **Data structures and Algorithms** with the C programming language
+<hr>
 
 ## ❤ Views and Followers.
 
