@@ -3,7 +3,7 @@
 <h3 align="center">A Determined and Hard-Working Software Engineer from Lagos, Nigeria.</h3>
 <img align= "right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 
-
+<hr>
 - 💬 You can ask me about **Back-End Development**
 - 📫 How to reach me **bolajibaasit14@gmail.com**
 - ⚡ Fun fact **I'm a student of ALX Software Engineering Programme**
