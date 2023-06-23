@@ -33,7 +33,5 @@
 
 
 ##  📊Stats.⚖️
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby16&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Toby16&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Bolaji Baasit's github stats" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby16&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Toby16&theme=dark" alt="Toby" /></p>
