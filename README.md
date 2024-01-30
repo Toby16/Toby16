@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Baasit Bolaji Ayomiposi:computer:</h1>
+<h1 align="center">Hi, I'm Baasit Bolaji Ayomiposi💻</h1>
 <h3 align="center">A Determined and Hard-Working Python Engineer/Backend Developer.</h3>
 <img align= "right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 <hr>
