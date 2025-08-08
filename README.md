@@ -7,7 +7,7 @@
 - 💬 You can ask me about **Back-End Development**
 - 📫 How to reach me **bolajibaasit14@gmail.com**
 - ⚡ Fun fact **I'm a Backend & Devops Engineer in one!**
-- 🔩 I'm proficient in **Linux/Bash, Python3/Fastapi**. Also **Functional Programming, Data structures and Algorithms** with the C programming Language
+- 🔩 I'm proficient in **Linux/Bash, Python3/Fastapi**. Also **Functional Programming, Data structures and Algorithms** with C programming
 - 🌍 Python Web Development and Software Engineering
 <hr>
 
