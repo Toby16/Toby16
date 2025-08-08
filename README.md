@@ -6,8 +6,8 @@
 
 - 💬 You can ask me about **Back-End Development**
 - 📫 How to reach me **bolajibaasit14@gmail.com**
-- ⚡ Fun fact **I'm an intern at ALX Software Engineering/The Room**
-- 🔩 I'm proficient in the implementation of **Data structures and Algorithms** with the C and JavaScript programming language
+- ⚡ Fun fact **I'm a Backend & Devops Engineer in one!**
+- 🔩 I'm proficient in **Linux/Bash, Python3/Fastapi**. Also **Functional Programming, Data structures and Algorithms** with the C programming Language
 - 🌍 Python Web Development and Software Engineering
 <hr>
 
